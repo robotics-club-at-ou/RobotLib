@@ -1,0 +1,7 @@
+Motor	KEYWORD1
+begin	KEYWORD2
+setDefaultOnZero	KEYWORD2
+output	KEYWORD2
+outputBool	KEYWORD2
+disableOutput	KEYWORD2
+enableOutput	KEYWORD2
